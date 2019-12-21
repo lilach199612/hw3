@@ -1,0 +1,10 @@
+cat b
+
+acat this is a at text file cast
+looking for the word cat
+the program should print also cats
+what do you want
+and crat and lcat but it shouldn’t print the word caats
+what do you want
+catt sfa ccat
+cayt cas
